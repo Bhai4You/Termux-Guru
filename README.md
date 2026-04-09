@@ -57,10 +57,8 @@
 <p align="center">
 <a href="https://bhai4you.blogspot.com/2021/12/mr.robot.html"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/2.jpg" alt="Mr. Robot" width="250" height="500"> <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/3.jpg" alt="Mr. Robot" width="250" height="500"> <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/master/5.jpg" alt="Mr. Robot" width="250" height="500"></a></p>
 
-## How To Install
-
-[Download Now](https://bhai4you.blogspot.com/2022/03/apk-termux-guru-2022-termux-commands.html#Download_Now)
-
+## Termux Apps (AD)
+<center><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxtutor"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-tutor.png" alt="Termux Tutor"  ></a><a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxbannerx"> <img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-bannerx.png" alt="Termux BannerX"  ></a> <a href="https://play.google.com/store/apps/details?id=com.codeninja.termuxthemestore"><img src="https://raw.githubusercontent.com/Bhai4You/bhai4you/refs/heads/master/termux-themes.png" alt="Termux Themes Store"  ></a></center>
 
 
 ## You may also like...
